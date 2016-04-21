@@ -1,0 +1,157 @@
+<section>
+		<article>
+		<div class="sixteen columns">
+		<p>Curabitur nec nisl eu viverra ligula. Donec scelerisque condimentum magna quis velit. Suspendisse facilisis at, venenatis nulla. Aliquam erat volutpat. Curabitur quam risus, commodo nec, nibh. Maecenas mi risus facilisis vel, augue. Maecenas gravida, quam fermentum suscipit adipiscing. Duis vel libero. Nulla semper. Sed ultricies vitae, mauris. Nunc a nunc. Maecenas nec erat. Vivamus ornare, erat at laoreet sit amet tellus quis venenatis eu, vulputate tempor varius, felis mollis non, nunc. Etiam volutpat ligula felis, volutpat tempus erat. Vivamus justo. Praesent odio eget sapien auctor tortor id eros. Vestibulum id leo sapien, lacinia at, mollis varius, quam nunc, tempus euismod. Integer adipiscing. Nunc erat urna, id lectus. Ut wisi ultricies tincidunt, eros diam vel lectus. Pellentesque habitant morbi tristique dapibus, libero dui, dictum justo ac hendrerit magna lectus, porta scelerisque, lacus sit amet, consectetuer adipiscing iaculis. Nam ac turpis egestas. Vestibulum ut urna. Aliquam ultrices posuere metus. Nulla pellentesque dui, eget erat fermentum odio. Quisque sed ante ipsum dolor sit amet erat. Sed quam molestie nulla ac diam. Aliquam nonummy, mi. Pellentesque dapibus tellus. Cras elementum. Fusce suscipit sed, nunc. Donec orci pellentesque dolor. Vestibulum commodo est dolor, varius quis, convallis auctor. Nam sed quam at quam. Proin erat felis, feugiat ultrices posuere cubilia Curae, In viverra venenatis nulla. Phasellus lorem quam sem, sed ante. Mauris ut tortor. Cum sociis natoque penatibus et lectus. Nunc justo ac enim arcu faucibus sit amet pede. Mauris vitae massa ac lacus. Vestibulum ante ipsum consectetuer viverra sit amet dui nulla, auctor vel, dui. Morbi urna eros in wisi. Praesent tortor nibh, interdum consectetuer mollis. Etiam blandit quam ipsum, vel dolor. Integer a leo. Donec ipsum lorem id ipsum. Nunc velit sed est sem, eleifend purus at sollicitudin turpis tellus, eleifend ut, dolor. Ut blandit, est massa augue, ullamcorper pede in faucibus quis, ipsum. Morbi risus nec tellus quis risus. Nunc felis. Cum sociis natoque penatibus et tortor. Cum sociis.</p>
+		</div>
+		</article>
+		<article>
+		<div class="sixteen columns">
+		<p>Lorem ipsum pretium cursus. In hac habitasse platea dictumst. Duis sodales rutrum, libero quis viverra pede eu mi. Aenean augue eget velit. Cras ut vehicula magna ac purus. Sed interdum mi risus commodo ipsum ullamcorper ligula dui, non eros. Nullam fermentum ante pulvinar mollis, metus. In quam placerat id, ante. Vestibulum tempus et, feugiat ultrices posuere cubilia Curae, Sed nec magna justo vulputate augue, feugiat ultrices et, pharetra varius. In hac habitasse platea dictumst. Maecenas id lorem. Aliquam et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum eget gravida vel, dignissim massa. Maecenas eu bibendum mi. Nullam pharetra sem in consequat lacus vehicula sed, vehicula eget, nisl. Vestibulum ante in sem. Sed placerat elementum congue, turpis egestas. Suspendisse est. Ut nonummy. Nam convallis viverra, enim porttitor sem ipsum, vel leo. In hendrerit tellus enim, id elementum eu, purus. Quisque libero. Praesent quis pede convallis libero. Pellentesque fringilla massa quis erat a lacus. In hac habitasse platea dictumst. Quisque justo imperdiet felis, nec turpis at libero. Aliquam erat fermentum suscipit sapien faucibus ligula. Nam ipsum. Duis quam nibh porta neque, congue ac, cursus sapien. Fusce ligula. Suspendisse congue orci a venenatis consequat. Donec suscipit lectus. Phasellus a odio feugiat felis. Pellentesque laoreet venenatis leo at ligula. Cras vitae mauris. Mauris viverra et, lobortis mauris rhoncus et, dictum a, aliquet quis, tincidunt consequat, orci luctus augue. Sed aliquet tincidunt varius justo. Aliquam ultricies viverra accumsan, urna tortor, dictum eu, dapibus dui, in faucibus orci luctus eget, dui. Morbi vel risus. Phasellus ornare euismod. Integer sollicitudin quis, tincidunt in, adipiscing elit. Nam non urna. Aliquam erat sem condimentum convallis. Suspendisse potenti. Quisque tortor. In vehicula neque. Mauris eget wisi quis enim. Suspendisse facilisis libero. Proin orci. Etiam dolor. Fusce ullamcorper wisi accumsan vitae, faucibus orci luctus nisl. Nam eu odio. Nam ut magna ornare nulla ligula quis neque vitae sem. Sed lobortis condimentum ante ullamcorper pellentesque. Nullam fermentum neque ac lacus. Vivamus metus imperdiet ante ullamcorper ac, varius ac, eros. Suspendisse quis wisi. Phasellus ut viverra vel, wisi. Proin imperdiet ante at quam. Donec pede. Vestibulum metus facilisis libero. Proin nunc eu tincidunt mattis eros. Nullam vulputate eu, luctus et ultrices posuere suscipit id, libero. Pellentesque sagittis, elit. Curabitur et magnis dis parturient montes, nascetur ridiculus mus. Donec eget leo. Integer mi ornare non, tincidunt tellus. Curabitur volutpat ante, vitae lorem lectus, volutpat quam at laoreet ligula turpis, accumsan cursus dignissim turpis. Donec molestie aliquam. Phasellus quis lacus.</p>
+		</div>
+		</article>
+		<article>
+		<div class="sixteen columns">
+		<p><h4>typografia</h4>
+			<xmp>
+			<h1>Heading</h1>
+			<h2>Heading</h2>
+			<h3>Heading</h3>
+			<h4>Heading</h4>
+			<h5>Heading</h5>
+			<h6>Heading</h6>
+			</xmp>
+		<h1>Heading</h1>
+		<h2>Heading</h2>
+		<h3>Heading</h3>
+		<h4>Heading</h4>
+		<h5>Heading</h5>
+		<h6>Heading</h6>
+		<xmp><blockquote>
+  <p>This is a blockquote style example. It stands out, but is awesome</p>
+  <cite>Dave Gamache, Skeleton Creator</cite>
+</blockquote></xmp>
+<blockquote>
+  <p>This is a blockquote style example. It stands out, but is awesome</p>
+  <cite>Dave Gamache, Skeleton Creator</cite>
+</blockquote>
+			</p><hr/>
+			<h4>formularze</h4>
+			<p>
+			<xmp><form action="">
+  
+  <!-- Label and text input -->
+  <label for="regularInput">Regular Input</label>
+  <input type="text" id="regularInput" />
+ 
+  <!-- Label and textarea -->
+  <label for="regularTextarea">Regular Textarea</label>
+  <textarea id="regularTextarea"></textarea>
+ 
+  <!-- Label and select list -->
+  <label for="selectList">Select List</label>
+  <select id="selectList">
+    <option value="Option 1">Option 1</option>
+    <option value="Option 2">Option 2</option>
+    <option value="Option 3">Option 3</option>
+  </select>
+ 
+  <!-- Wrap checkbox/radio button groups in fieldsets -->
+  <fieldset>
+    
+    <!-- Give the fieldset a label -->
+    <label for="">Checkboxes</label>
+ 
+    <!-- Wrap each checkbox in a label, then give it the input and span for the text option -->
+    <label for="regularCheckbox">
+      <input type="checkbox" id="regularCheckbox" value="checkbox 1" />
+      <span>Regular Checkbox</span>
+    </label>
+ 
+    <label for="secondRegularCheckbox">
+      <input type="checkbox" id="secondRegularCheckbox" value="checkbox 2" />
+      <span>Regular Checkbox</span>
+    </label>
+  </fieldset>
+ 
+  <fieldset>
+    <label for="">Radio Buttons</label>
+    <label for="regularRadio">
+      <input type="radio" name="radios" id="regularRadio" value="radio 1" />
+      <span>Regular Radio</span>
+    </label>
+    <label for="secondRegularRadio">
+      <input type="radio" name="radios" id="secondRegularRadio" value="radio 2" />
+      <span>Regular Radio</span>
+    </label>
+  </fieldset>
+ 
+  <button type="submit">Submit Form</button>
+ 
+</form></xmp>
+			<form action="">
+  
+  <!-- Label and text input -->
+  <label for="regularInput">Regular Input</label>
+  <input type="text" id="regularInput" />
+ 
+  <!-- Label and textarea -->
+  <label for="regularTextarea">Regular Textarea</label>
+  <textarea id="regularTextarea"></textarea>
+ 
+  <!-- Label and select list -->
+  <label for="selectList">Select List</label>
+  <select id="selectList">
+    <option value="Option 1">Option 1</option>
+    <option value="Option 2">Option 2</option>
+    <option value="Option 3">Option 3</option>
+  </select>
+ 
+  <!-- Wrap checkbox/radio button groups in fieldsets -->
+  <fieldset>
+    
+    <!-- Give the fieldset a label -->
+    <label for="">Checkboxes</label>
+ 
+    <!-- Wrap each checkbox in a label, then give it the input and span for the text option -->
+    <label for="regularCheckbox">
+      <input type="checkbox" id="regularCheckbox" value="checkbox 1" />
+      <span>Regular Checkbox</span>
+    </label>
+ 
+    <label for="secondRegularCheckbox">
+      <input type="checkbox" id="secondRegularCheckbox" value="checkbox 2" />
+      <span>Regular Checkbox</span>
+    </label>
+  </fieldset>
+ 
+  <fieldset>
+    <label for="">Radio Buttons</label>
+    <label for="regularRadio">
+      <input type="radio" name="radios" id="regularRadio" value="radio 1" />
+      <span>Regular Radio</span>
+    </label>
+    <label for="secondRegularRadio">
+      <input type="radio" name="radios" id="secondRegularRadio" value="radio 2" />
+      <span>Regular Radio</span>
+    </label>
+  </fieldset>
+ 
+  <button type="submit">Submit Form</button>
+ 
+</form>
+			</p><hr/>
+			<h4>przyciski</h4>
+			<p>
+			<xmp><a href="#" class="button">Click Me</a></xmp>		
+			<a href="#" class="button">Click Me</a>
+ <xmp><button>Click Me</button></xmp>
+			<button>Click Me</button>
+ <xmp><a href="#" class="full-width button">Click Me</a></xmp>
+			<a href="#" class="full-width button">Click Me</a>
+
+			</p></p>
+		</div>
+		</article>
+		</section>
+		
+		

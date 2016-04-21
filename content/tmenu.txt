@@ -1,0 +1,12 @@
+<nav>
+	<div class="sixteen columns">
+		<ul class="tmenu">
+			<li class="tmenu"><a href="index.php?id=index">Lorem</a></li>
+			<li class="tmenu"><a href="index.php?id=aliquam">Aliquam</a></li>
+			<li class="tmenu"><a href="index.php?id=amet">Amet</a></li>
+			<li class="tmenu"><a href="index.php?id=ante">Ante</a></li>
+			<li class="tmenu"><a href="index.php?id=astra">Astra</a></li>
+			<li class="tmenu"><a href="index.php?id=auctor">Auctor</a></li>
+		</ul>	
+	</div>
+</nav>

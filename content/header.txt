@@ -1,0 +1,7 @@
+<header>
+		<div class="sixteen columns">
+			<h1><a href="index.php?id=index">sodapress framework</a></h1>
+			<h5>lekki i przyjemny framework do tworzenia witryn internetowych.</h5>
+			<hr />
+		</div>
+</header>

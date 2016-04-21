@@ -1,0 +1,13 @@
+<aside>
+	<div class="four columns">
+		<h3>Menu</h3>
+		<ul>
+			<li><a href="index.php?id=index">Lorem</a></li>
+			<li><a href="index.php?id=aliquam">Aliquam</a></li>
+			<li><a href="index.php?id=amet">Amet</a></li>
+			<li><a href="index.php?id=ante">Ante</a></li>
+			<li><a href="index.php?id=astra">Astra</a></li>
+			<li><a href="index.php?id=auctor">Auctor</a></li>
+		</ul>
+	</div>
+</aside>

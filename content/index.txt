@@ -1,0 +1,135 @@
+<section>
+		<article>
+		<div class="twelve columns">
+			<h3>Cras ipsum adipiscing justo quis massa.</h3>
+			<p>Lorem ipsum dolor sit amet magna. Vestibulum metus eu bibendum purus feugiat mattis faucibus. Ut vestibulum vehicula. Duis luctus congue, aliquet lacinia quis, feugiat congue, lacus non erat volutpat. Nam eget erat in nulla in faucibus orci pellentesque facilisis. Fusce congue. Aliquam nec tristique congue. Nunc justo. Nulla in nulla in velit eleifend nibh, sed sem. Quisque pellentesque quis, accumsan sed, ultrices libero odio id wisi magna, at urna magna lectus, eu wisi. Mauris imperdiet, nisl eu mollis faucibus, convallis quam in dolor. Vestibulum ante sit amet nunc eu libero hendrerit sagittis. Aliquam erat lacinia varius ac, felis. Nam nec erat at velit tempus facilisis, ante ipsum dolor non augue. <blockquote>Sed fringilla vel, wisi. Praesent rutrum. Nullam justo facilisis pellentesque purus, vehicula eget, dignissim turpis. Praesent et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque mollis consectetuer.</blockquote>Etiam varius, quam nunc, mollis luctus. Phasellus dapibus mauris nec scelerisque tellus tristique lorem. Maecenas ante. Phasellus vitae massa. Donec enim quis est. Duis luctus et est turpis at velit.Lorem ipsum dolor sit amet metus nunc, mollis aliquam, nulla sed libero. Cum sociis natoque penatibus et nunc volutpat ultricies massa. Curabitur arcu nunc commodo id, lacinia neque. Praesent blandit lectus. Phasellus a nulla. Phasellus laoreet hendrerit dolor placerat scelerisque, diam. Morbi urna quis neque. Cras ipsum adipiscing justo quis massa. Proin gravida pulvinar. Donec faucibus orci luctus ullamcorper aliquam. Phasellus sem. Pellentesque facilisis risus. Vivamus consectetuer adipiscing mauris. Praesent gravida tellus rutrum ac, vehicula convallis non, tristique tempus et, posuere risus. </p>
+		</div>
+		</article>
+		
+		<article>
+		<div class="eight columns">
+			<h3>Vivamus consectetuer adipiscing mauris.</h3>
+			<p>Lorem ipsum dolor sit amet magna. Vestibulum metus eu bibendum purus feugiat mattis faucibus. Maecenas imperdiet wisi. Nulla ipsum primis in augue. Nam eget erat in nulla in faucibus orci pellentesque facilisis. <blockquote>Fusce congue. Aliquam nec tristique congue. Nunc justo. Nulla in nulla in velit eleifend nibh, sed sem. Quisque pellentesque quis, accumsan sed, ultrices libero odio id wisi magna, at urna magna lectus, eu wisi.<cite>Pellentesque Mollis</cite></blockquote> Mauris imperdiet, nisl eu mollis faucibus, convallis quam in dolor. Vestibulum ante sit amet nunc eu libero hendrerit sagittis. Aliquam erat lacinia varius ac, felis. Nam nec erat at velit tempus facilisis, ante ipsum dolor non augue. Sed fringilla vel, wisi.</p>
+		</div>
+		</article>
+		
+		<article>
+			<div class="eight columns">
+			<h3>Vivamus consectetuer adipiscing mauris.</h3>
+			<p>Lorem ipsum dolor sit amet magna. Vestibulum metus eu bibendum purus feugiat mattis faucibus. Maecenas imperdiet wisi. Nulla ipsum primis in augue. Sed malesuada fames ac lectus. Ut vestibulum vehicula. Duis luctus congue, aliquet lacinia quis, feugiat congue, lacus non erat volutpat. Nam eget erat in nulla in faucibus orci pellentesque facilisis. Fusce congue. Aliquam nec tristique congue. Nunc justo. Nulla in nulla in velit eleifend nibh, sed sem. Quisque pellentesque quis, accumsan sed, ultrices libero odio id wisi magna, at urna magna lectus, eu wisi. Mauris imperdiet, nisl eu mollis faucibus, convallis quam in dolor. Vestibulum ante sit amet nunc eu libero hendrerit sagittis. Aliquam erat lacinia varius ac, felis. Nam nec erat at velit tempus facilisis, ante ipsum dolor non augue. Sed fringilla vel, wisi. Praesent rutrum. Nullam justo facilisis pellentesque purus, vehicula eget, dignissim turpis. Praesent et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque mollis consectetuer. Etiam varius, quam nunc, mollis luctus. Phasellus dapibus mauris nec scelerisque tellus tristique lorem. Maecenas ante. Phasellus vitae massa. Donec enim quis est. Duis luctus et est turpis at velit.</p>
+		</div>
+		</article>
+		
+		<article>
+		<div class="eight columns">
+			<h3>Vivamus consectetuer adipiscing mauris.</h3>
+			<p>Lorem ipsum dolor sit amet magna. Vestibulum metus eu bibendum purus feugiat mattis faucibus. Maecenas imperdiet wisi. Nulla ipsum primis in augue. Sed malesuada fames ac lectus. Ut vestibulum vehicula. Duis luctus congue, aliquet lacinia quis, feugiat congue, lacus non erat volutpat. Nam eget erat in nulla in faucibus orci pellentesque facilisis. Fusce congue. Aliquam nec tristique congue. Nunc justo. Nulla in nulla in velit eleifend nibh, sed sem. Quisque pellentesque quis, accumsan sed, ultrices libero odio id wisi magna, at urna magna lectus, eu wisi. Mauris imperdiet, nisl eu mollis faucibus, convallis quam in dolor. Vestibulum ante sit amet nunc eu libero hendrerit sagittis. Aliquam erat lacinia varius ac, felis. Nam nec erat at velit tempus facilisis, ante ipsum dolor non augue. Sed fringilla vel, wisi. Praesent rutrum. Nullam justo facilisis pellentesque purus, vehicula eget, dignissim turpis. Praesent et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque mollis consectetuer. Etiam varius, quam nunc, mollis luctus. Phasellus dapibus mauris nec scelerisque tellus tristique lorem. Maecenas ante. Phasellus vitae massa. Donec enim quis est. Duis luctus et est turpis at velit.</p>
+		</div>
+		</article>
+		
+		<article>
+			<div class="eight columns">
+			<h3>Vivamus consectetuer adipiscing mauris.</h3>
+			<p>Lorem ipsum dolor sit amet magna. Vestibulum metus eu bibendum purus feugiat mattis faucibus. Maecenas imperdiet wisi. Nulla ipsum primis in augue. Sed malesuada fames ac lectus. Ut vestibulum vehicula. Duis luctus congue, aliquet lacinia quis, feugiat congue, lacus non erat volutpat. Nam eget erat in nulla in faucibus orci pellentesque facilisis. Fusce congue. Aliquam nec tristique congue. Nunc justo. Nulla in nulla in velit eleifend nibh, sed sem. Quisque pellentesque quis, accumsan sed, ultrices libero odio id wisi magna, at urna magna lectus, eu wisi. Mauris imperdiet, nisl eu mollis faucibus, convallis quam in dolor. Vestibulum ante sit amet nunc eu libero hendrerit sagittis. Aliquam erat lacinia varius ac, felis. Nam nec erat at velit tempus facilisis, ante ipsum dolor non augue. Sed fringilla vel, wisi. Praesent rutrum. Nullam justo facilisis pellentesque purus, vehicula eget, dignissim turpis. Praesent et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque mollis consectetuer. Etiam varius, quam nunc, mollis luctus. Phasellus dapibus mauris nec scelerisque tellus tristique lorem. Maecenas ante. Phasellus vitae massa. Donec enim quis est. Duis luctus et est turpis at velit.</p>
+		</div>
+		</article>
+		
+		<article>
+		<div class="sixteen columns">
+		<p>Lorem ipsum dolor sit amet magna. Vestibulum metus eu bibendum purus feugiat mattis faucibus. Maecenas imperdiet wisi. Nulla ipsum primis in augue. Sed malesuada fames ac lectus. Ut vestibulum vehicula. Duis luctus congue, aliquet lacinia quis, feugiat congue, lacus non erat volutpat. Nam eget erat in nulla in faucibus orci pellentesque facilisis. Fusce congue. Aliquam nec tristique congue. Nunc justo. Nulla in nulla in velit eleifend nibh, sed sem. Quisque pellentesque quis, accumsan sed, ultrices libero odio id wisi magna, at urna magna lectus, eu wisi. Mauris imperdiet, nisl eu mollis faucibus, convallis quam in dolor. Vestibulum ante sit amet nunc eu libero hendrerit sagittis. Aliquam erat lacinia varius ac, felis. Nam nec erat at velit tempus facilisis, ante ipsum dolor non augue. Sed fringilla vel, wisi. Praesent rutrum. Nullam justo facilisis pellentesque purus, vehicula eget, dignissim turpis. Praesent et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque mollis consectetuer. Etiam varius, quam nunc, mollis luctus. Phasellus dapibus mauris nec scelerisque tellus tristique lorem. Maecenas ante. Phasellus vitae massa. Donec enim quis est. Duis luctus et est turpis at velit.</p>
+		</div>
+		</article>
+		
+		<article>
+		<div class="one-third column">
+		<p>OT Lorem ipsum dolor sit amet magna. Vestibulum metus eu bibendum purus feugiat mattis faucibus. Maecenas imperdiet wisi. Nulla ipsum primis in augue. Sed malesuada fames ac lectus. Ut vestibulum vehicula. Duis luctus congue, aliquet lacinia quis, feugiat congue, lacus non erat volutpat. Nam eget erat in nulla in faucibus orci pellentesque facilisis. Fusce congue. Aliquam nec tristique congue. Nunc justo. Nulla in nulla in velit eleifend nibh, sed sem. Quisque pellentesque quis, accumsan sed, ultrices libero odio id wisi magna, at urna magna lectus, eu wisi. Mauris imperdiet, nisl eu mollis faucibus, convallis quam in dolor. Vestibulum ante sit amet nunc eu libero hendrerit sagittis. Aliquam erat lacinia varius ac, felis. Nam nec erat at velit tempus facilisis, ante ipsum dolor non augue. Sed fringilla vel, wisi. Praesent rutrum. Nullam justo facilisis pellentesque purus, vehicula eget, dignissim turpis. Praesent et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque mollis consectetuer. Etiam varius, quam nunc, mollis luctus. Phasellus dapibus mauris nec scelerisque tellus tristique lorem. Maecenas ante. Phasellus vitae massa. Donec enim quis est. Duis luctus et est turpis at velit. Nunc justo. Nulla in nulla in velit eleifend nibh, sed sem. Quisque pellentesque quis, accumsan sed, ultrices libero odio id wisi magna, at urna magna lectus, eu wisi.</p>
+		</div>
+		</article>
+		
+		<article>
+		<div class="one-third column">
+		<form action="">
+  <!-- Label and text input -->
+  <label for="regularInput">Regular Input</label>
+  <input type="text" id="regularInput" />
+ 
+  <!-- Label and textarea -->
+  <label for="regularTextarea">Regular Textarea</label>
+  <textarea id="regularTextarea"></textarea>
+ 
+  <!-- Label and select list -->
+  <label for="selectList">Select List</label>
+  <select id="selectList">
+    <option value="Option 1">Option 1</option>
+    <option value="Option 2">Option 2</option>
+    <option value="Option 3">Option 3</option>
+  </select>
+ 
+  <!-- Wrap checkbox/radio button groups in fieldsets -->
+  <fieldset>
+    
+    <!-- Give the fieldset a label -->
+    <label for="">Checkboxes</label>
+ 
+    <!-- Wrap each checkbox in a label, then give it the input and span for the text option -->
+    <label for="regularCheckbox">
+      <input type="checkbox" id="regularCheckbox" value="checkbox 1" />
+      <span>Regular Checkbox</span>
+    </label>
+ 
+    <label for="secondRegularCheckbox">
+      <input type="checkbox" id="secondRegularCheckbox" value="checkbox 2" />
+      <span>Regular Checkbox</span>
+    </label>
+  </fieldset>
+ 
+  <fieldset>
+    <label for="">Radio Buttons</label>
+    <label for="regularRadio">
+      <input type="radio" name="radios" id="regularRadio" value="radio 1" />
+      <span>Regular Radio</span>
+    </label>
+    <label for="secondRegularRadio">
+      <input type="radio" name="radios" id="secondRegularRadio" value="radio 2" />
+      <span>Regular Radio</span>
+    </label>
+  </fieldset>
+ 
+  <button type="submit">Submit Form</button>
+ 
+</form>
+		</div>
+		</article>
+		
+		<article>
+		<div class="one-third column">
+		<p>OT Lorem ipsum dolor sit amet magna. Vestibulum metus eu bibendum purus feugiat mattis faucibus. Maecenas imperdiet wisi. Nulla ipsum primis in augue. Sed malesuada fames ac lectus. Ut vestibulum vehicula. Duis luctus congue, aliquet lacinia quis, feugiat congue, lacus non erat volutpat. Nam eget erat in nulla in faucibus orci pellentesque facilisis. Fusce congue. Aliquam nec tristique congue. Nunc justo. Nulla in nulla in velit eleifend nibh, sed sem. Quisque pellentesque quis, accumsan sed, ultrices libero odio id wisi magna, at urna magna lectus, eu wisi. Mauris imperdiet, nisl eu mollis faucibus, convallis quam in dolor. Vestibulum ante sit amet nunc eu libero hendrerit sagittis. Aliquam erat lacinia varius ac, felis. Nam nec erat at velit tempus facilisis, ante ipsum dolor non augue. Sed fringilla vel, wisi. Praesent rutrum. Nullam justo facilisis pellentesque purus, vehicula eget, dignissim turpis. Praesent et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque mollis consectetuer. Etiam varius, quam nunc, mollis luctus. Phasellus dapibus mauris nec scelerisque tellus tristique lorem. Maecenas ante. Phasellus vitae massa. Donec enim quis est. Duis luctus et est turpis at velit. Nunc justo. Nulla in nulla in velit eleifend nibh, sed sem. Quisque pellentesque quis, accumsan sed, ultrices libero odio id wisi magna, at urna magna lectus, eu wisi.</p>
+		</div>
+		</article>
+		
+		<article>
+		<div class="four columns">
+		<p>F Lorem ipsum dolor sit amet magna. Vestibulum metus eu bibendum purus feugiat mattis faucibus. Maecenas imperdiet wisi. Nulla ipsum primis in augue. Sed malesuada fames ac lectus. Ut vestibulum vehicula. Duis luctus congue, aliquet lacinia quis, feugiat congue, lacus non erat volutpat. Nam eget erat in nulla in faucibus orci pellentesque facilisis. Fusce congue. <button>Sed ut perspiciatis</button> nec tristique congue. Nunc justo. Nulla in nulla in velit eleifend nibh, sed sem. Quisque pellentesque quis, accumsan sed, ultrices libero odio id wisi magna, at urna magna lectus, eu wisi. Mauris imperdiet, nisl eu mollis faucibus, convallis quam in dolor. Vestibulum ante sit amet nunc eu libero hendrerit sagittis. Aliquam erat lacinia varius ac, felis. Nam nec erat at velit tempus facilisis, ante ipsum dolor non augue. Sed fringilla vel, wisi. Praesent rutrum. Nullam justo facilisis pellentesque purus, vehicula eget, dignissim turpis. Praesent et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque mollis consectetuer. Etiam varius, quam nunc, mollis luctus. Phasellus dapibus mauris nec scelerisque tellus tristique lorem. Maecenas ante. Phasellus vitae massa. Donec enim quis est. Duis luctus et est turpis at velit.</p>
+		</div>
+		</article>
+		
+		<article>
+		<div class="four columns">
+		<p>ONE Lorem ipsum dolor sit amet magna. Vestibulum metus eu bibendum purus feugiat mattis faucibus. Maecenas imperdiet wisi. Nulla ipsum primis in augue. Sed malesuada fames ac lectus. Ut vestibulum vehicula. Duis luctus congue, aliquet lacinia quis, feugiat congue, lacus non erat volutpat. Nam eget erat in nulla in faucibus orci pellentesque facilisis. Fusce congue. Aliquam nec tristique congue. Nunc justo. Nulla in nulla in velit eleifend nibh, sed sem. Quisque pellentesque quis, accumsan sed, ultrices libero odio id wisi magna, at urna magna lectus, eu wisi. Mauris imperdiet, nisl eu mollis faucibus, convallis quam in dolor. Vestibulum ante sit amet nunc eu libero hendrerit sagittis. Aliquam erat lacinia varius ac, felis. Nam nec erat at velit tempus facilisis, ante ipsum dolor non augue. Sed fringilla vel, wisi. Praesent rutrum. Nullam justo facilisis pellentesque purus, vehicula eget, dignissim turpis. Praesent et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque mollis consectetuer. Etiam varius, quam nunc, mollis luctus. Phasellus dapibus mauris nec scelerisque tellus tristique lorem. Maecenas ante. Phasellus vitae massa. Donec enim quis est. Duis luctus et est turpis at velit.</p>
+		</div>
+		</article>
+		
+		<article>
+		<div class="four columns">
+		<p>F Lorem ipsum dolor sit amet magna. Vestibulum metus eu bibendum purus feugiat mattis faucibus. Maecenas imperdiet wisi. Nulla ipsum primis in augue. Sed malesuada fames ac lectus. Ut vestibulum vehicula. Duis luctus congue, aliquet lacinia quis, feugiat congue, lacus non erat volutpat. Nam eget erat in nulla in faucibus orci pellentesque facilisis. Fusce congue. Aliquam nec tristique congue. Nunc justo. Nulla in nulla in velit eleifend nibh, sed sem. Quisque pellentesque quis, accumsan sed, ultrices libero odio id wisi magna, at urna magna lectus, eu wisi. Mauris imperdiet, nisl eu mollis faucibus, convallis quam in dolor. Vestibulum ante sit amet nunc eu libero hendrerit sagittis. Aliquam erat lacinia varius ac, felis. Nam nec erat at velit tempus facilisis, ante ipsum dolor non augue. Sed fringilla vel, wisi. Praesent rutrum. Nullam justo facilisis pellentesque purus, vehicula eget, dignissim turpis. Praesent et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque mollis consectetuer. Etiam varius, quam nunc, mollis luctus. Phasellus dapibus mauris nec scelerisque tellus tristique lorem. Maecenas ante. Phasellus vitae massa. Donec enim quis est. Duis luctus et est turpis at velit. <a href="mailto:mail@to.me" class="button">Quis autem vel</a></p>
+		</div>
+		</article>
+		
+		<article>
+		<div class="four columns">
+		<p>F Lorem ipsum dolor sit amet magna. Vestibulum metus eu bibendum purus feugiat mattis faucibus. Maecenas imperdiet wisi. Nulla ipsum primis in augue. Sed malesuada fames ac lectus. Ut vestibulum vehicula. Duis luctus congue, aliquet lacinia quis, feugiat congue, lacus non erat volutpat. Nam eget erat in nulla in faucibus orci pellentesque facilisis. Fusce congue. Aliquam nec tristique congue. Nunc justo. Nulla in nulla in velit eleifend nibh, sed sem. Quisque pellentesque quis, accumsan sed, ultrices libero odio id wisi magna, at urna magna lectus, eu wisi. Mauris imperdiet, nisl eu mollis faucibus, convallis quam in dolor. Vestibulum ante sit amet nunc eu libero hendrerit sagittis. Aliquam erat lacinia varius ac, felis. Nam nec erat at velit tempus facilisis, ante ipsum dolor non augue. Sed fringilla vel, wisi. Praesent rutrum. Nullam justo facilisis pellentesque purus, vehicula eget, dignissim turpis. Praesent et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque mollis consectetuer. Etiam varius, quam nunc, mollis luctus. Phasellus dapibus mauris nec scelerisque tellus tristique lorem. Maecenas ante. Phasellus vitae massa. Donec enim quis est. Duis luctus et est turpis at velit.</p>
+		</div>
+		</article>
+		</section>
+		
+		

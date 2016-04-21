@@ -1,0 +1,9 @@
+<footer>
+		<div class="thirteen columns">
+			<p><a href="http://www.sodapress.tk">sodapress7</a> 2013 &#169; autor: Mateusz Stomski</p>
+		</div>
+		<div class="three columns">
+			<p><a href="#" onclick="history.back();">Wstecz</a> | <a href="index.php?id=index/#tmenu">Do góry</a></p>
+		</div>
+
+</footer>

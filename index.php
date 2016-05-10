@@ -61,7 +61,7 @@ $result = $mysqli->query("SELECT * FROM sites WHERE ahref = '$_GET[href]'");
 $site = mysqli_fetch_array($result);
 
 //jeśli link jest do strony głównej pokazuje artykuły, jeśli nie, to wyświetla to co w bazie jest pod href w db i ahref z GET.
-if ($site['ahref'] == 'index') {
+if ($site['ahref'] == 'index' || ! $site['ahref']) {
 	$result = $mysqli->query("SELECT * FROM articles ORDER BY date");
 
 	while ( $article = mysqli_fetch_array($result) ) {

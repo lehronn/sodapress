@@ -46,7 +46,7 @@
       <div class="ten columns" style="margin-top: 5%">
         <h3>Witaj administratorze!</h3>
         <p>Tutaj, w panelu administracyjnym możesz zarządzać stronami, artykułami oraz użytkownikami.</p>
-		<p><a href="index.php">Wróć na stronę główną witryny.</a></p>
+		<p><a href="index.php?href=index">Wróć na stronę główną witryny.</a></p>
 		<h4>Artykuły</h4>
   <?php
 include('db_connect.php'); 

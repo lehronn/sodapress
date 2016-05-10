@@ -43,9 +43,10 @@ $result = $mysqli->query("SELECT * FROM sites ORDER BY weight");
 
 echo '<ul>';
 while ( $sites = mysqli_fetch_array($result) ) {
-	echo '<li>' . '<a href="' . $sites['ahref'] . '">' . $sites['name'] . '</a></li>';
+	echo '<li>' . '<a href="index.php?href=' . $sites['ahref'] . '">' . $sites['name'] . '</a></li>';
 	
 }
+echo '<li><a href=admin.php>Panel administratora</a></li>';
 echo '</ul>';
 ?>
 
@@ -56,19 +57,41 @@ echo '</ul>';
 include('db_connect.php'); 
 // nawiązanie połączenia z bazą danych w pliku db_connect.php	
 
-$result = $mysqli->query("SELECT * FROM articles ORDER BY date");
+$result = $mysqli->query("SELECT * FROM sites WHERE ahref = '$_GET[href]'");
+$site = mysqli_fetch_array($result);
 
-while ( $article = mysqli_fetch_array($result) ) {
+//jeśli link jest do strony głównej pokazuje artykuły, jeśli nie, to wyświetla to co w bazie jest pod href w db i ahref z GET.
+if ($site['ahref'] == 'index') {
+	$result = $mysqli->query("SELECT * FROM articles ORDER BY date");
+
+	while ( $article = mysqli_fetch_array($result) ) {
+		echo '<article class="single-article">';
+		echo '<h3>' . $article['title'] . '</h3>';
+		echo 'autor: ' . $article['author'] . '<br/>';
+		echo 'data publikacji: ' . $article['date'] . '<br/>';
+		echo 'kategoria: ' . $article['category'] . '<br/>';
+		echo '<div class="article-content">';
+		echo '<p>' . $article['content'] . '</p>';
+		echo '</div>';
+		echo '</article>';
+	}
+} 
+else {
 	echo '<article class="single-article">';
-	echo '<h3>' . $article['title'] . '</h3>';
-	echo 'autor: ' . $article['author'] . '<br/>';
-	echo 'data publikacji: ' . $article['date'] . '<br/>';
-	echo 'kategoria: ' . $article['category'] . '<br/>';
-	echo '<div class="article-content">';
-	echo '<p>' . $article['content'] . '</p>';
+	echo '<h3>' . $site['name'] . '</h3>';
+	echo '<p>' . $site['content'] . '<br/></p>';
 	echo '</div>';
-	echo '</article>';
-} ?>
+	echo '</article>';	
+
+}
+
+
+	
+	
+
+	
+	
+?>
         
       </div>
     </div>
